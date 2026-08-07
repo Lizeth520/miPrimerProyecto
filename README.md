@@ -1,4 +1,4 @@
-# gMi Primer Proyecto en GIT y GITHUB
+# Mi Primer Proyecto en GIT y GITHUB
 
 ## Maria Lizeth Garcia Fonseca
 
